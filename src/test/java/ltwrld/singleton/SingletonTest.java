@@ -1,6 +1,5 @@
-package ltwrld;
+package ltwrld.singleton;
 
-import ltwrld.singleton.Singleton;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertSame;
